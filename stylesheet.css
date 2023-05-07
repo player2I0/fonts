@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'BitPotion';
+    src: url('BitPotion.eot');
+    src: url('BitPotion.eot?#iefix') format('embedded-opentype'),
+        url('BitPotion.woff2') format('woff2'),
+        url('BitPotion.woff') format('woff'),
+        url('BitPotion.ttf') format('truetype'),
+        url('BitPotion.svg#BitPotion') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
